@@ -27,17 +27,11 @@ img{
 .bio{
     font-size: 1.2em;
     line-height: 1.7;
-    /* font-weight: lighter; */
 }
 a{
     text-decoration: none !important;
     color: black;
 }
-
-.my-about{
-    /* margin-top: 30px; */
-}
-
 .page-footer{
     color: white;
     border-top: 1px black solid; 
@@ -51,7 +45,6 @@ a{
 a:hover{
     text-decoration: none !important;
 }
-
 .landing-page{
     border-bottom: 2px black solid;       
     padding-bottom: 10px;
